@@ -46,7 +46,3 @@ for putting images
 
 to break a line put 3 asterisk 
 ***
-
->home
-
-[![youtube](https://cdn4.iconfinder.com/data/icons/social-media-line-3/64/Social-media-expand_Youtube-512.png)](https://www.youtube.com/ "Youtube")
